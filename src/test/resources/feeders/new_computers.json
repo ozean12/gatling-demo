@@ -1,0 +1,62 @@
+[
+  {
+    "name": "4NZK9A8US0",
+    "introduced": "2019-02-01",
+    "discontinued": "2020-02-01",
+    "company": 1
+  },
+  {
+    "name": "E1L92IKOCZ",
+    "introduced": "2019-02-02",
+    "discontinued": "2020-02-02",
+    "company": 2
+  },
+  {
+    "name": "DQB4UW803A",
+    "introduced": "2019-02-03",
+    "discontinued": "2020-02-03",
+    "company": 3
+  },
+  {
+    "name": "36VSWK7X8M",
+    "introduced": "2019-02-04",
+    "discontinued": "2020-02-04",
+    "company": 4
+  },
+  {
+    "name": "FAZQVU1W4G",
+    "introduced": "2019-02-05",
+    "discontinued": "2020-02-05",
+    "company": 5
+  },
+  {
+    "name": "L3VUIJMP7C",
+    "introduced": "2019-02-06",
+    "discontinued": "2020-02-06",
+    "company": 6
+  },
+  {
+    "name": "D7TK54R3HI",
+    "introduced": "2019-02-07",
+    "discontinued": "2020-02-07",
+    "company": 7
+  },
+  {
+    "name": "XPOV3LAF7B",
+    "introduced": "2019-02-08",
+    "discontinued": "2020-02-08",
+    "company": 8
+  },
+  {
+    "name": "0WC2O5VGWN",
+    "introduced": "2019-02-09",
+    "discontinued": "2020-02-09",
+    "company": 9
+  },
+  {
+    "name": "IMC7FU9VR1",
+    "introduced": "2019-02-10",
+    "discontinued": "2020-02-10",
+    "company": 10
+  }
+]
